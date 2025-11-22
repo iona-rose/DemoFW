@@ -3,7 +3,10 @@
   "menuBackgroundImage": "https://www.gamekeeper.ca/wp-content/uploads/650x650_3b12f55910e9107ad8896be0bbd4b51fdd43841dbe9fdc67afb6da57.jpg",
   "defaultRessources": {
     "backgrounds": [
-      "https://www.dbs-cardgame.com/fw/bccard/jp/news/2024/09/03/h5ChG0qML4QTah6S/FW_DB40th_PlayMat_dummy_s.png"
+      "https://www.dbs-cardgame.com/fw/bccard/jp/news/2024/09/03/h5ChG0qML4QTah6S/FW_DB40th_PlayMat_dummy_s.png",
+      "https://tcgplayer-cdn.tcgplayer.com/product/549693_in_1000x1000.jpg",
+      "https://tcgplayer-cdn.tcgplayer.com/product/641366_in_1000x1000.jpg",
+      "https://tcgplayer-cdn.tcgplayer.com/product/609590_in_1000x1000.jpg"
     ],
     "decksUrl": ""
   },
