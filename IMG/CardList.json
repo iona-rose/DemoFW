@@ -9235,7 +9235,7 @@
     "name": "Chilled (FB03-115)",
     "type": "Character ",
     "cost": "3",
-    "Type line": "",
+    "Type line": "Character",
     "race": "",
     "archetype": ""
   },
