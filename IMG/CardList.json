@@ -3583,25 +3583,6 @@
     "race": "",
     "archetype": ""
   },
-  "FB01-118": {
-    "id": "FB01-119",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Salza",
-        "type": "Character ",
-        "cost": "3",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB01-118.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "Salza (FB01-118)",
-    "type": "Character ",
-    "cost": "3",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
   "FB01-119": {
     "id": "FB01-120",
     "isToken": false,
@@ -7926,25 +7907,6 @@
     "race": "",
     "archetype": ""
   },
-  "FB03-048": {
-    "id": "FB03-049",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Mighty Mask",
-        "type": "Character ",
-        "cost": "2",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-048.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "Mighty Mask (FB03-048)",
-    "type": "Character ",
-    "cost": "2",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
   "FB03-049": {
     "id": "FB03-050",
     "isToken": false,
@@ -9220,25 +9182,6 @@
     "race": "",
     "archetype": ""
   },
-  "FB03-115": {
-    "id": "FB03-119",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Chilled",
-        "type": "Character ",
-        "cost": "3",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-115.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "Chilled (FB03-115)",
-    "type": "Character ",
-    "cost": "3",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
   "FB03-116": {
     "id": "FB03-116",
     "isToken": false,
@@ -9710,6 +9653,63 @@
     "name": "Son Goku : GT (FB03-140)",
     "type": "Character ",
     "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-115": {
+    "id": "FB03-115",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chilled",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-115.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chilled (FB03-115)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-048": {
+    "id": "FB03-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mighty Mask",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-048.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mighty Mask (FB03-048)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB01-118": {
+    "id": "FB01-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Salza",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB01-118.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Salza (FB01-118)",
+    "type": "Character ",
+    "cost": "3",
     "Type line": "Character",
     "race": "",
     "archetype": ""
