@@ -6707,5 +6707,316 @@
     "Type line": "Character",
     "race": "",
     "archetype": ""
+  },
+  "FS05-01": {
+    "id": "FS05-01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bardock",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-01_f.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Bardock",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-01_b.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bardock (FS05-01)",
+    "type": "Leader",
+    "cost": 0,
+    "Type line": "Leader",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-02": {
+    "id": "FS05-02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Great Ape Bardock",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-02.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Great Ape Bardock (FS05-02)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-03": {
+    "id": "FS05-03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kakarot",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-03.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kakarot (FS05-03)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-04": {
+    "id": "FS05-04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fasha",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-04.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fasha (FS05-04)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-05": {
+    "id": "FS05-05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan",
+        "type": "Character ",
+        "cost": "7",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-05.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan (FS05-05)",
+    "type": "Character ",
+    "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-06": {
+    "id": "FS05-06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tora",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-06.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tora (FS05-06)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-07": {
+    "id": "FS05-07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Borgos",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-07.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Borgos (FS05-07)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-08": {
+    "id": "FS05-08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dodoria",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-08.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dodoria (FS05-08)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-09": {
+    "id": "FS05-09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nappa : Adolescence",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-09.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nappa : Adolescence (FS05-09",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-10": {
+    "id": "FS05-10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bardock",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-10.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bardock (FS05-10)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-11": {
+    "id": "FS05-11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bardock",
+        "type": "Character ",
+        "cost": "5",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-11.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bardock (FS05-11)",
+    "type": "Character ",
+    "cost": "5",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-12": {
+    "id": "FS05-12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shugesh",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-12.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shugesh (FS05-12)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-13": {
+    "id": "FS05-13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frieza",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-13.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frieza (FS05-13)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-14": {
+    "id": "FS05-14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta : Youth",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-14.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta : Youth (FS05-14)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-15": {
+    "id": "FS05-15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Resisting Destiny",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-15.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Resisting Destiny (FS05-15)",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FS05-16": {
+    "id": "FS05-16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "A Lonesome, Final Battle",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FS05-16.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "A Lonesome, Final Battle",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
   }
 }
