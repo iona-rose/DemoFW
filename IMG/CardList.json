@@ -7018,5 +7018,2700 @@
     "Type line": "Extra",
     "race": "",
     "archetype": ""
+  },
+  "FB03-001": {
+    "id": "FB03-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiren",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-001_f.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Jiren",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-001_b.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiren (FB03-001)",
+    "type": "Leader",
+    "cost": 0,
+    "Type line": "Leader",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-002": {
+    "id": "FB03-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kahseral",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-002.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kasheral (FB03-002)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-003": {
+    "id": "FB03-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Khai",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-003.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Khai (FB03-003)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-004": {
+    "id": "FB03-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cabba",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-004.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cabba (FB03-004)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-005": {
+    "id": "FB03-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kunshi",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-005.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kunshi (FB03-005)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-006": {
+    "id": "FB03-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kettol",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-006.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kettol (FB03-006)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-007": {
+    "id": "FB03-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kefla",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-007.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kefla (FB03-007)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-008": {
+    "id": "FB03-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cocotte",
+        "type": "Character ",
+        "cost": "7",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-008.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cocotte (FB03-008)",
+    "type": "Character ",
+    "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-009": {
+    "id": "FB03-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiren",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-009.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiren (FB03-009)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-010": {
+    "id": "FB03-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zoiray",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-010.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zoiray (FB03-010",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-011": {
+    "id": "FB03-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-011.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FB03-011)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-012": {
+    "id": "FB03-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tupper",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-012.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tupper (FB03-012)",
+    "type": false,
+    "cost": 0,
+    "Type line": "",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-013": {
+    "id": "FB03-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dyspo",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-013.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dyspo (FB03-013",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-014": {
+    "id": "FB03-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dyspo",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-014.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dyspo (FB03-014)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-015": {
+    "id": "FB03-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Toppo",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-015.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toppo (FB03-015)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-016": {
+    "id": "FB03-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Toppo",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-016.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toppo (FB03-016)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-017": {
+    "id": "FB03-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hit",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-017.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hit (FB03-017)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-018": {
+    "id": "FB03-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beerus",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-018.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beerus (FB03-018",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-019": {
+    "id": "FB03-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fuon",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-019.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fuon (FB03-019)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-020": {
+    "id": "FB03-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-020.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FB03-020)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-021": {
+    "id": "FB03-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Belmond",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-021.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Belmond (FB03-021)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-022": {
+    "id": "FB03-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Marcarita",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-022.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Marcarita (FB03-022)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-023": {
+    "id": "FB03-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "It's Over!",
+        "type": "Extra",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-023.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "It's Over! (FB03-023)",
+    "type": "Extra",
+    "cost": "2",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-024": {
+    "id": "FB03-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Greatest Showdown of All Time",
+        "type": "Extra",
+        "cost": "5",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-024.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Greatest Showdown of All Time!",
+    "type": "Extra",
+    "cost": "5",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-025": {
+    "id": "FB03-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Double Cannon Maximum",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-025.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Double Cannon Maximum (FB03-025(",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-026": {
+    "id": "FB03-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sphere of Destruction",
+        "type": "Extra",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-026.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sphere of Destruction (FB03-026)",
+    "type": "Extra",
+    "cost": "2",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-027": {
+    "id": "FB03-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-027_f.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Son Goku",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-027_b.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FB03-027)",
+    "type": "Leader",
+    "cost": 0,
+    "Type line": "Leader",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-028": {
+    "id": "FB03-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Erasa",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-028.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Erasa (FB03-028)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-029": {
+    "id": "FB03-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Whis",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-029.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Whis (FB03-029)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-030": {
+    "id": "FB03-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kibito",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-030.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kibito (FB03-030)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-031": {
+    "id": "FB03-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krillin",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-031.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krillin (FB03-031)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-032": {
+    "id": "FB03-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Great Saiyaman",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-032.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Great Saiyaman (FB03-032)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-033": {
+    "id": "FB03-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sharpner ",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-033.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sharpner (FB03-033",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-034": {
+    "id": "FB03-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shin",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-034.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shin (FB03-034)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-035": {
+    "id": "FB03-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Android 18",
+        "type": "Character ",
+        "cost": "7",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-035.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Android 18 (FB03-035)",
+    "type": "Character ",
+    "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-036": {
+    "id": "FB03-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-036.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FB03-036)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-037": {
+    "id": "FB03-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goten",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-037.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goten (FB03-037)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-038": {
+    "id": "FB03-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Adolescence",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-038.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Adolescence (FB03-038)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-039": {
+    "id": "FB03-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Adolescence",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-039.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Adolescence (FB03-039)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-040": {
+    "id": "FB03-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trunks : Future",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-040.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trunks : Future (FB03-040)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-041": {
+    "id": "FB03-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trunks : Youth",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-041.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trunks : Youth (FB03-041)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-042": {
+    "id": "FB03-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Videl",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-042.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Videl (FB03-042)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-043": {
+    "id": "FB03-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Videl",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-043.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Videl (FB03-043)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-044": {
+    "id": "FB03-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-044.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo (FB03-044)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-045": {
+    "id": "FB03-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Beerus",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-045.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Beerus (FB03-045)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-046": {
+    "id": "FB03-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bulma",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-046.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bulma (FB03-046)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-047": {
+    "id": "FB03-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-047.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FB03-047)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-048": {
+    "id": "FB03-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mighty Mask",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-048.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mighty Mask (FB03-048)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-049": {
+    "id": "FB03-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hercule",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-049.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hercule (FB03-049)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-050": {
+    "id": "FB03-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orange Star High School",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-050.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orange Star High School (FB03-050)",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-051": {
+    "id": "FB03-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Great Saiyaman",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-051.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Great Saiyaman! (FB03-051)",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-052": {
+    "id": "FB03-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "You Prefer Girls With Short Hair?",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-052.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "You Prefer Girls With Short Hair? (FB03-052)",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-053": {
+    "id": "FB03-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-053_f.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Piccolo",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-053_b.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo (FB03-053)",
+    "type": "Leader",
+    "cost": 0,
+    "Type line": "Leader",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-054": {
+    "id": "FB03-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "King Yemma ",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-054.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "King Yemma (FB03-054)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-055": {
+    "id": "FB03-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kami",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-055.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kami (FB03-055)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-056": {
+    "id": "FB03-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Master Roshi",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-056.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Master Roshi (FB03-056)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-057": {
+    "id": "FB03-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "North Kai",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-057.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "North Kai (FB03-057)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-058": {
+    "id": "FB03-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gregory",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-058.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gregory (FB03-058)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-059": {
+    "id": "FB03-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Android 17",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-059.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Android 17 (FB03-059)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-060": {
+    "id": "FB03-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cell",
+        "type": "Character ",
+        "cost": "5",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-060.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cell (FB03-060",
+    "type": "Character ",
+    "cost": "5",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-061": {
+    "id": "FB03-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cell",
+        "type": "Character ",
+        "cost": "8",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-061.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cell (FB03-061)",
+    "type": "Character ",
+    "cost": "8",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-062": {
+    "id": "FB03-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Farmer With Power Level 5",
+        "type": "Character ",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-062.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Farmer With Power Level 5 (FB03-062)",
+    "type": "Character ",
+    "cost": 0,
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-063": {
+    "id": "FB03-063",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-063.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FB03-063)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-064": {
+    "id": "FB03-064",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "6",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-064.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FB03-064)",
+    "type": "Character ",
+    "cost": "6",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-065": {
+    "id": "FB03-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Youth",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-065.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Youth (FB03-065)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-066": {
+    "id": "FB03-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Youth",
+        "type": "Character ",
+        "cost": "7",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-066.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Youth (FB03-066)",
+    "type": "Character ",
+    "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-067": {
+    "id": "FB03-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nappa",
+        "type": "Character ",
+        "cost": "6",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-067.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nappa (FB03-067)",
+    "type": "Character ",
+    "cost": "6",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-068": {
+    "id": "FB03-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bubbles",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-068.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bubbles (FB03-068)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-069": {
+    "id": "FB03-069",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-069.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo (FB03-069)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-070": {
+    "id": "FB03-070",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo",
+        "type": "Character ",
+        "cost": "6",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-070.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo (FB03-070)",
+    "type": "Character ",
+    "cost": "6",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-071": {
+    "id": "FB03-071",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bulma",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-071.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bulma (FB03-071)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-072": {
+    "id": "FB03-072",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "7",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-072.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FB03-072)",
+    "type": "Character ",
+    "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-073": {
+    "id": "FB03-073",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raditz",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-073.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raditz (FB03-073)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-074": {
+    "id": "FB03-074",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Raditz",
+        "type": "Character ",
+        "cost": "6",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-074.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Raditz (FB03-074)",
+    "type": "Character ",
+    "cost": "6",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-075": {
+    "id": "FB03-075",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Days of Training",
+        "type": "Extra",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-075.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Days of Training",
+    "type": "Extra",
+    "cost": "3",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-076": {
+    "id": "FB03-076",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scouter (FB03-076)",
+        "type": "Extra",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-076.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scouter (FB03-076)",
+    "type": "Extra",
+    "cost": "2",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-077": {
+    "id": "FB03-077",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Special Beam Cannon",
+        "type": "Extra",
+        "cost": "5",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-077.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Special Beam Cannon (FB03-077)",
+    "type": "Extra",
+    "cost": "5",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-078": {
+    "id": "FB03-078",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Babidi",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-078_f.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Majin Buu",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-078_b.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Babidi (FB03-078)",
+    "type": "Leader",
+    "cost": 0,
+    "Type line": "Leader",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-079": {
+    "id": "FB03-079",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spopovich",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-079.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spopovich (FB03-079)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-080": {
+    "id": "FB03-080",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-080.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FB03-080)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-081": {
+    "id": "FB03-081",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dabura",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-081.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dabura (FB03-081)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-082": {
+    "id": "FB03-082",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dabura",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-082.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dabura (FB03-082)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-083": {
+    "id": "FB03-083",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Babidi",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-083.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Babidi (FB03-083)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-084": {
+    "id": "FB03-084",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Babidi",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-084.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Babidi (FB03-084)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-085": {
+    "id": "FB03-085",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bibidi",
+        "type": "Character ",
+        "cost": "7",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-085.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bibidi (FB03-085)",
+    "type": "Character ",
+    "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-086": {
+    "id": "FB03-086",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pui Pui",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-086.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pui Pui (FB03-086)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-087": {
+    "id": "FB03-087",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bulma",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-087.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bulma (FB03-087)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-088": {
+    "id": "FB03-088",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-088.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FB03-088)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-089": {
+    "id": "FB03-089",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-089.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FB03-089)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-090": {
+    "id": "FB03-090",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-090.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FB03-090)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-091": {
+    "id": "FB03-091",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Majin Buu : Pure Evil",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-091.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Majin Buu : Pure Evil (FB03-091)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-092": {
+    "id": "FB03-092",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Majin Buu",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-092.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Majin Buu (FB03-092)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-093": {
+    "id": "FB03-093",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Majin Buu",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-093.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Majin Buu (FB03-093)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-094": {
+    "id": "FB03-094",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Meta-Cooler Core",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-094.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Meta-Cooler Core (FB03-094)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-095": {
+    "id": "FB03-095",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yakon",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-095.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yakon (FB03-095)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-096": {
+    "id": "FB03-096",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Yamu",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-096.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Yamu (FB03-096)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-097": {
+    "id": "FB03-097",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Recoome",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-097.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Recoome (FB03-097)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-098": {
+    "id": "FB03-098",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Turn Into Candy!",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-098.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Turn Into Candy!",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-099": {
+    "id": "FB03-099",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Energy Absorption",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-099.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Energy Absorption",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-100": {
+    "id": "FB03-100",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paparappa!",
+        "type": "Extra",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-100.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paparapaa!",
+    "type": "Extra",
+    "cost": "2",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-101": {
+    "id": "FB03-101",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Babidi's Spaceship",
+        "type": "Extra",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-101.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Babidi's Spaceship",
+    "type": "Extra",
+    "cost": "2",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-102": {
+    "id": "FB03-102",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Final Explosion",
+        "type": "Extra",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-102.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Final Explosion",
+    "type": "Extra",
+    "cost": "3",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-103": {
+    "id": "FB03-103",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sealed Majin",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-103.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sealed Majin",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-104": {
+    "id": "FB03-104",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku : GT",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-104_f.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Son Goku : GT",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-104_b.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku : GT (FB03-104)",
+    "type": "Leader",
+    "cost": 0,
+    "Type line": "Leader",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-105": {
+    "id": "FB03-105",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Uub : GT",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-105.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Uub : GT (FB03-105)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-106": {
+    "id": "FB03-106",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Great Ape Son Goku",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-106.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Great Ape Son Goku (FB03-106)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-107": {
+    "id": "FB03-107",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gine : BR",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-107.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gine : BR (FB03-107)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-108": {
+    "id": "FB03-108",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Giru",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-108.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giru (FB03-108)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-109": {
+    "id": "FB03-109",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zoonama",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-109.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zoonama (FB03-109)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-110": {
+    "id": "FB03-110",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku : GT",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-110.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku : GT (FB03-110)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-111": {
+    "id": "FB03-111",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku : GT",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-111.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku : GT (FB03-111)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-112": {
+    "id": "FB03-112",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku : Childhood BR",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-112.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku : Childhood BR (FB03-112)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-113": {
+    "id": "FB03-113",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goten : GT",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-113.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goten : GT (FB03-113)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-114": {
+    "id": "FB03-114",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : GT",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-114.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : GT (FB03-114)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-115": {
+    "id": "FB03-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chilled",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-115.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chilled (FB03-115)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-116": {
+    "id": "FB03-116",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Toolo",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-116.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Toolo (FB03-116)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-117": {
+    "id": "FB03-117",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Myuu",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-117.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Myuu (FB03-117)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-118": {
+    "id": "FB03-118",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trunks : GT",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-118.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trunks : GT (FB03-118)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-119": {
+    "id": "FB03-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trunks : GT",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-119.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trunks : GT (FB03-119)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-120": {
+    "id": "FB03-120",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dolltucky",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-120.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dolltucky (FB03-120)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-121": {
+    "id": "FB03-121",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bardock (FB03-121)",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-121.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bardock (FB03-121)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-122": {
+    "id": "FB03-122",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bardock : BR",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-122.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bardock : BR (FB03-122)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-123": {
+    "id": "FB03-123",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Para Para Brothers",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-123.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Para Para Brothers (FB03-123)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-124": {
+    "id": "FB03-124",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pan : GT",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-124.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pan : GT (FB03-124)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-125": {
+    "id": "FB03-125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pan : GT",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-125.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pan : GT (FB03-125)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-126": {
+    "id": "FB03-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo : GT",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-126.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo : GT (FB03-126)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-127": {
+    "id": "FB03-127",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bulla : GT",
+        "type": "Character ",
+        "cost": "7",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-127.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bulla : GT (FB03-127)",
+    "type": "Character ",
+    "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-128": {
+    "id": "FB03-128",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bulma : GT",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-128.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bulma : GT (FB03-128)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-129": {
+    "id": "FB03-129",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta : GT",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-129.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta : GT (FB03-129)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-130": {
+    "id": "FB03-130",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta : Childhood BR",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-130.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta : Childhood BR (FB03-130)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-131": {
+    "id": "FB03-131",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Majin Buu : GT",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-131.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Majin Buu : GT (FB03-131)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-132": {
+    "id": "FB03-132",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hercule : GT",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-132.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hercule : GT (FB03-132)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-133": {
+    "id": "FB03-133",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Luud",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-133.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Luud (FB03-133)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-134": {
+    "id": "FB03-134",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ledgic",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-134.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ledgic (FB03-134)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-135": {
+    "id": "FB03-135",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "New Legend",
+        "type": "Extra",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-135.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "New Legend",
+    "type": "Extra",
+    "cost": "4",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-136": {
+    "id": "FB03-136",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spaceship of Hope",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-136.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spaceship of Hope",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-137": {
+    "id": "FB03-137",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "10x Kamehameha",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-137.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "10x Kamehameha",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-138": {
+    "id": "FB03-138",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Great Ape Who Gained Intelligence",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-138.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Great Ape Who Gained Intelligence",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-139": {
+    "id": "FB03-139",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Youth",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-139.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Youth (FB03-139)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-140": {
+    "id": "FB03-140",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku : GT",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-140.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku : GT (FB03-140)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
   }
 }
