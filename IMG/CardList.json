@@ -10025,44 +10025,6 @@
     "race": "",
     "archetype": ""
   },
-  "FB08-003": {
-    "id": "FB08-003",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Krillin",
-        "type": "Character ",
-        "cost": "1",
-        "image": "https://i.ibb.co/1tvXJLy0/image.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Krillin (FB08-003)",
-    "type": "Character ",
-    "cost": "1",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
-  "FB08-004": {
-    "id": "FB08-004",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Coco",
-        "type": "Character ",
-        "cost": "1",
-        "image": "https://i.ibb.co/SwkY8q5K/image.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Coco (FB08-004)",
-    "type": "Character ",
-    "cost": "1",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
   "FB08-018": {
     "id": "FB08-018",
     "isToken": false,
