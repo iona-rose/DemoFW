@@ -12791,6 +12791,63 @@
     "race": "",
     "archetype": ""
   },
+  "SB02-056": {
+    "id": "SB02-065",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mercenary Tao",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-056.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mercenary Tao (SB02-056)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "SB02-057": {
+    "id": "SB02-066",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drum",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-057.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drum (SB02-057)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "SB02-058": {
+    "id": "SB02-067",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "King Piccolo",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-058.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "King Piccolo (SB02-058)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
   "SB02-059": {
     "id": "SB02-059",
     "isToken": false,
@@ -12829,57 +12886,1204 @@
     "race": "",
     "archetype": ""
   },
-  "SB02-058": {
-    "id": "SB02-058",
+  "FP-001": {
+    "id": "FP-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-001.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FP-001)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-002": {
+    "id": "FP-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-002.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FP-002)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-003": {
+    "id": "FP-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Broly",
+        "type": "Character ",
+        "cost": "6",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-003.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Broly (FP-003)",
+    "type": "Character ",
+    "cost": "6",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-004": {
+    "id": "FP-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frieza",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-004.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frieza (FP-004)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-005": {
+    "id": "FP-005",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Awakening to Super Saiyan",
+        "type": "Extra",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-005.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Awakening to Super Saiyan (FP-005)",
+    "type": "Extra",
+    "cost": "2",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-006": {
+    "id": "FP-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-006.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FP-006)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-007": {
+    "id": "FP-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-007.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FP-007)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-008": {
+    "id": "FP-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-008.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FP-008)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-009": {
+    "id": "FP-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo",
+        "type": "Character ",
+        "cost": "5",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-009.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo (FP-009)",
+    "type": "Character ",
+    "cost": "5",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-010": {
+    "id": "FP-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegito",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-010.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegito (FP-010)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-011": {
+    "id": "FP-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cell",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-011.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cell (FP-011)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-012": {
+    "id": "FP-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bulma",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-012.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bulma (FP-012)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-013": {
+    "id": "FP-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Adolescence",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-013.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Adolescence (FP-013)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-014": {
+    "id": "FP-014",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Broly : BR",
+        "type": "Character ",
+        "cost": "7",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-014.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Broly : BR (FP-014)",
+    "type": "Character ",
+    "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-015": {
+    "id": "FP-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goku Black",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-015.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goku Black (FP-015)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-016": {
+    "id": "FP-016",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jiren",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-016.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jiren (FP-016)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-017": {
+    "id": "FP-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Adolescence",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-017.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Adolescence (FP-017)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-018": {
+    "id": "FP-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-018.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo (FP-018)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-019": {
+    "id": "FP-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Majin Buu",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-019.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Majin Buu (FP-019)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-020": {
+    "id": "FP-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trunks : GT",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-020.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trunks : GT (FP-020)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-021": {
+    "id": "FP-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bardock",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-021.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bardock (FP-021)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-022": {
+    "id": "FP-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku : GT",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-022_p1.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku : GT (FP-022)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-023": {
+    "id": "FP-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-023_p1.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FP-023)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-024": {
+    "id": "FP-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku (Mini) : DA",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-024_p1.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (Mini) : DA (FP-024)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-025": {
+    "id": "FP-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Majin Buu : Kid",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-025.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Majin Buu : Kid (FP-025)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-026": {
+    "id": "FP-026",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Super Baby 2",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-026.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Super Baby 2 (FP-026)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-027": {
+    "id": "FP-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-027.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FP-027)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-028": {
+    "id": "FP-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gotenks",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-028.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gotenks (FP-028)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-029": {
+    "id": "FP-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta (Mini) : DA",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-029.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (Mini) : DA (FP-029)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-030": {
+    "id": "FP-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The Strongest Fighters",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-030_f.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "The Strongest Fighters",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-030_b.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "The Strongest Fighters (FP-030)",
+    "type": "Leader",
+    "cost": 0,
+    "Type line": "Leader",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-031": {
+    "id": "FP-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku (Mini) : DA",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-031.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (Mini) : DA (FP-031)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-032": {
+    "id": "FP-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Janemba",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-032.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Janemba (FP-032)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-033": {
+    "id": "FP-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-033.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FP-033)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-034": {
+    "id": "FP-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-034.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FP-034)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-035": {
+    "id": "FP-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Majin Kuu : DA / Majin Duu : DA",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-035.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Majin Kuu : DA / Majin Duu : DA (FP-035)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-036": {
+    "id": "FP-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tamagami Number One : DA",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-036.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tamagami Number One : DA (FP-036)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-037": {
+    "id": "FP-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku (Mini) : DA",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-037.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (Mini) : DA (FP-037)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-038": {
+    "id": "FP-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Broly : BR",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-038.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Broly : BR (FP-038)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-039": {
+    "id": "FP-039",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dr. Arinsu : DA",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-039.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dr. Arinsu : DA (FP-039)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-040": {
+    "id": "FP-040",
     "isToken": false,
     "face": {
       "front": {
         "name": "King Piccolo",
         "type": "Character ",
-        "cost": "3",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-058.webp?v1",
+        "cost": "5",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-040.webp?v1",
         "isHorizontal": false
       }
     },
-    "name": "King Piccolo (SB02-058)",
+    "name": "King Piccolo (FP-040)",
     "type": "Character ",
-    "cost": "3",
+    "cost": "5",
     "Type line": "Character",
     "race": "",
     "archetype": ""
   },
-  "SB02-057": {
-    "id": "SB02-057",
+  "FP-041": {
+    "id": "FP-041",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Drum",
-        "type": "Character ",
-        "cost": "3",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-057.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "Drum (SB02-057)",
-    "type": "Character ",
-    "cost": "3",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
-  "SB02-056": {
-    "id": "SB02-056",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Mercenary Tao",
+        "name": "Vegeta (Mini) : DA",
         "type": "Character ",
         "cost": "4",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-056.webp?v1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-041.webp?v1",
         "isHorizontal": false
       }
     },
-    "name": "Mercenary Tao (SB02-056)",
+    "name": "Vegeta (Mini) : DA (FP-041)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-042": {
+    "id": "FP-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Android 17",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-042.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Android 17 (FP-042)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-043": {
+    "id": "FP-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku (Mini) : DA",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-043.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (Mini) : DA (FP-043)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-044": {
+    "id": "FP-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-044.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FP-044)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-045": {
+    "id": "FP-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tien Shinhan",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-045.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tien Shinhan (FP-045)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-046": {
+    "id": "FP-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nappa",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-046.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nappa (FP-046)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-047": {
+    "id": "FP-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta (Mini) : DA",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-047.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (Mini) : DA (FP-047)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-048": {
+    "id": "FP-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo Jr.",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-048.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo Jr. (FP-048)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-049": {
+    "id": "FP-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku : Childhood",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-049.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku : Childhood (FP-049)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-050": {
+    "id": "FP-050",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku : DA",
+        "type": "Character ",
+        "cost": "5",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-050.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku : DA (FP-050)",
+    "type": "Character ",
+    "cost": "5",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-051": {
+    "id": "FP-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : SH",
+        "type": "Character ",
+        "cost": "7",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-051.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : SH (FP-051)",
+    "type": "Character ",
+    "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-052": {
+    "id": "FP-052",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Android 18",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-052_p1.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Android 18 (FP-052)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-053": {
+    "id": "FP-053",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Zamasu / Goku Black",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-053_p1.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Zamasu / Goku Black (FP-053)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-054": {
+    "id": "FP-054",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Childhood",
+        "type": "Character ",
+        "cost": "6",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-054_p1.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Childhood (FP-054)",
+    "type": "Character ",
+    "cost": "6",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-055": {
+    "id": "FP-055",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jeice / Burter",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-055_p1.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jeice / Burter (FP-055)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-056": {
+    "id": "FP-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-056_p1.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo (FP-056)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-057": {
+    "id": "FP-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Childhood",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-057.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Childhood (FP-057)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-058": {
+    "id": "FP-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Adolescence",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-058.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Adolescence (FP-058)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-059": {
+    "id": "FP-059",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "6",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-059.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FP-059)",
+    "type": "Character ",
+    "cost": "6",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-060": {
+    "id": "FP-060",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Majin Buu : Evil",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-060.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Majin Buu : Evil (FP-060)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-061": {
+    "id": "FP-061",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bulma",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-061.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bulma (FP-061)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Charcter",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-062": {
+    "id": "FP-062",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FP-062.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FP-062)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FP-068": {
+    "id": "FP-068",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trunks : Future",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://cdn.discordapp.com/attachments/1215006008531750922/1441030001007923304/image0.jpg?ex=69239b05&is=69224985&hm=fe82aa4757d853309d89ec7eaaba57d1b85193f0de83695c68b58e887aa88562",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trunks : Future (FP-068)",
     "type": "Character ",
     "cost": "4",
     "Type line": "Character",
