@@ -9676,25 +9676,6 @@
     "race": "",
     "archetype": ""
   },
-  "": {
-    "id": "",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "",
-        "type": false,
-        "cost": 0,
-        "image": "",
-        "isHorizontal": false
-      }
-    },
-    "name": "",
-    "type": false,
-    "cost": 0,
-    "Type line": "",
-    "race": "",
-    "archetype": ""
-  },
   "FB01-126": {
     "id": "FB01-126",
     "isToken": false,
@@ -9719,14 +9700,14 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "Great Saiyaman",
+        "name": "Great Saiyaman!",
         "type": "Extra",
         "cost": "1",
         "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-051.webp?v1",
         "isHorizontal": false
       }
     },
-    "name": "Great Saiyaman! (FB03-051)",
+    "name": "Great Saiyaman (FB03-051)",
     "type": "Extra",
     "cost": "1",
     "Type line": "Extra",
