@@ -9759,44 +9759,6 @@
     "race": "",
     "archetype": ""
   },
-  "FB08-006": {
-    "id": "FB08-003",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Son Goku",
-        "type": "Character ",
-        "cost": "2",
-        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-006.webp",
-        "isHorizontal": false
-      }
-    },
-    "name": "Son Goku (FB08-006)",
-    "type": "Character ",
-    "cost": "2",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
-  "FB08-007": {
-    "id": "FB08-004",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Son Goku",
-        "type": "Character ",
-        "cost": "2",
-        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-007.webp",
-        "isHorizontal": false
-      }
-    },
-    "name": "Son Goku (FB08-007)",
-    "type": "Character ",
-    "cost": "2",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
   "FB08-008": {
     "id": "FB08-008",
     "isToken": false,
@@ -11740,6 +11702,44 @@
     "name": "Bardock (FB08-111)",
     "type": "Character ",
     "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "fb08-007": {
+    "id": "fb08-007",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-007.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FB08-007)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-006": {
+    "id": "FB08-006",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-006.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FB08-006)",
+    "type": "Character ",
+    "cost": "2",
     "Type line": "Character",
     "race": "",
     "archetype": ""
