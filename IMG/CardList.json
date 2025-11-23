@@ -9695,21 +9695,21 @@
     "race": "",
     "archetype": ""
   },
-  "FB01-125": {
-    "id": "FB01-125",
+  "SB02-041": {
+    "id": "SB02-041",
     "isToken": false,
     "face": {
       "front": {
         "name": "Nail",
         "type": "Character ",
-        "cost": "7",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB01-125.webp?v1",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-041.webp?v1",
         "isHorizontal": false
       }
     },
-    "name": "Nail (FB01-125)",
+    "name": "Nail (FB02-041)",
     "type": "Character ",
-    "cost": "7",
+    "cost": "2",
     "Type line": "Character",
     "race": "",
     "archetype": ""
