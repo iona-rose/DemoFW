@@ -3583,25 +3583,6 @@
     "race": "",
     "archetype": ""
   },
-  "FB01-119": {
-    "id": "FB01-120",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Jeice",
-        "type": "Character ",
-        "cost": "1",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB01-119.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "Jeice (FB01-119)",
-    "type": "Character ",
-    "cost": "1",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
   "FB01-120": {
     "id": "FB01-121",
     "isToken": false,
@@ -7907,25 +7888,6 @@
     "race": "",
     "archetype": ""
   },
-  "FB03-049": {
-    "id": "FB03-050",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Hercule",
-        "type": "Character ",
-        "cost": "1",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-049.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "Hercule (FB03-049)",
-    "type": "Character ",
-    "cost": "1",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
   "FB03-050": {
     "id": "FB03-051",
     "isToken": false,
@@ -9710,6 +9672,44 @@
     "name": "Salza (FB01-118)",
     "type": "Character ",
     "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB01-119": {
+    "id": "FB01-119",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Jeice",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB01-119.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Jeice (FB01-119)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-049": {
+    "id": "FB03-049",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hercule",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-049.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hercule (FB03-049)",
+    "type": "Character ",
+    "cost": "1",
     "Type line": "Character",
     "race": "",
     "archetype": ""
