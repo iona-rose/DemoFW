@@ -9713,5 +9713,779 @@
     "Type line": "Character",
     "race": "",
     "archetype": ""
+  },
+  "FB08-001": {
+    "id": "FB08-001",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Adolescence",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-001.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Son Gohan : Adolescence",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-001_b.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Adolescence (FB08-001)",
+    "type": "Leader",
+    "cost": 0,
+    "Type line": "Leader",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-002": {
+    "id": "FB08-002",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krillin",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-002.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krillin (FB08-002)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-006": {
+    "id": "FB08-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-006.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FB08-006)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-007": {
+    "id": "FB08-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goku",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-007.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goku (FB08-007)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-008": {
+    "id": "FB08-008",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goten",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-008.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goten (FB08-008)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-010": {
+    "id": "FB08-010",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Childhoo",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-010.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Childhood (FB08-010)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-011": {
+    "id": "FB08-011",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Adolescence",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-011.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Adolescence (FB08-011)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-013": {
+    "id": "FB08-013",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Future",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-013.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Future (FB08-013)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-015": {
+    "id": "FB08-015",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Trunks : Youth",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-015.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Trunks : Youth (FB08-015)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-019": {
+    "id": "FB08-019",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Videl",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-019.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Videl (FB08-019)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-021": {
+    "id": "FB08-021",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-021.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FB08-021)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-022": {
+    "id": "FB08-022",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vegeta",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-022.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vegeta (FB08-022)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-023": {
+    "id": "FB08-023",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hercule",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-023.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hercule (FB08-023)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-024": {
+    "id": "FB08-024",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Threads of Fate",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-024.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Threads of Fate (FB08-024)",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-012": {
+    "id": "FB08-012",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Gohan : Adolescence",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://i.ibb.co/kLv6mTh/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Gohan : Adolescence (FB08-012)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-009": {
+    "id": "FB08-009",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Son Goten / Trunks : Youth",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://i.ibb.co/chyNLQ9R/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Son Goten / Trunks : Youth (FB08-009)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-003": {
+    "id": "FB08-003",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krillin",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://i.ibb.co/1tvXJLy0/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krillin (FB08-003)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-004": {
+    "id": "FB08-004",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Coco",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://i.ibb.co/SwkY8q5K/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coco (FB08-004)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-018": {
+    "id": "FB08-018",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Videl",
+        "type": "Character ",
+        "cost": "1",
+        "image": "http://i.ibb.co/d0kCxFZC/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Videl (FB08-018)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-017": {
+    "id": "FB08-017",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Natade Village Elder",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://i.ibb.co/ZptN70xt/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Natade Village Elder",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-025": {
+    "id": "FB08-025",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caulifla",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-025.webp",
+        "isHorizontal": false
+      },
+      "back": {
+        "name": "Caulifla",
+        "type": "Leader",
+        "cost": 0,
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-025_b.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caulifla (FB08-025)",
+    "type": "Leader",
+    "cost": 0,
+    "Type line": "Leader",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-027": {
+    "id": "FB08-027",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caulifla",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-027.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caulifla (FB08-027)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-028": {
+    "id": "FB08-028",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cabba",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-028.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cabba (FB08-028",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-029": {
+    "id": "FB08-029",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cabba",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-029.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cabba (FB08-029)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-030": {
+    "id": "FB08-030",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kale",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://i.ibb.co/nNn6xdQQ/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kale (FB08-030)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-031": {
+    "id": "FB08-031",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kale",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-031.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kale (FB08-031)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-032": {
+    "id": "FB08-032",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kale",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://i.ibb.co/TMvVQHwL/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kale (FB08-032)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-033": {
+    "id": "FB08-033",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kefla ",
+        "type": "Character ",
+        "cost": "5",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-033.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kefla (FB08-033)",
+    "type": "Character ",
+    "cost": "5",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-034": {
+    "id": "FB08-034",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kefla",
+        "type": "Character ",
+        "cost": "5",
+        "image": "https://i.ibb.co/1t8ZbjSn/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kefla (FB08-034)",
+    "type": "Character ",
+    "cost": "5",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-035": {
+    "id": "FB08-035",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gotenks",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-035.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gotenks (FB08-035)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-036": {
+    "id": "FB08-036",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saonel",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-036.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saonel (FB08-036)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-038": {
+    "id": "FB08-038",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-039.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo (FB08-038)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-040": {
+    "id": "FB08-040",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hit",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-040.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hit (FB08-040)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-041": {
+    "id": "FB08-041",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pirina",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-041.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pirina (FB08-041)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-042": {
+    "id": "FB08-042",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Frost",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-042.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Frost (FB08-042)",
+    "type": "Character ",
+    "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-044": {
+    "id": "FB08-044",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Botamo",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-044.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Botamo (FB08-044)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-045": {
+    "id": "FB08-045",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Magetta",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-045.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Magetta (FB08-045)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-048": {
+    "id": "FB08-048",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Thirst for Strength",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://multi-deckplanet.us-southeast-1.linodeobjects.com/fusion_world/FB08-048.webp",
+        "isHorizontal": false
+      }
+    },
+    "name": "Thirst for Strength (FB08-048)",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-043": {
+    "id": "FB08-043",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fuwa",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://i.ibb.co/k2W5zqQL/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fuwa (FB08-043)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-037": {
+    "id": "FB08-037",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Champa",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://i.ibb.co/354z7qmX/image.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Champa (FB08-037)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
   }
 }
