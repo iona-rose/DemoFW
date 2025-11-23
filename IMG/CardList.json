@@ -3697,25 +3697,6 @@
     "race": "",
     "archetype": ""
   },
-  "FB01-126": {
-    "id": "FB01-126",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Burter",
-        "type": "Character ",
-        "cost": "2",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB01-126.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "Burter (FB01-126)",
-    "type": "Character ",
-    "cost": "2",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
   "FB01-127": {
     "id": "FB01-127",
     "isToken": false,
@@ -7907,25 +7888,6 @@
     "race": "",
     "archetype": ""
   },
-  "FB03-051": {
-    "id": "FB03-051",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Great Saiyaman",
-        "type": "Extra",
-        "cost": "1",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-051.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "Great Saiyaman! (FB03-051)",
-    "type": "Extra",
-    "cost": "1",
-    "Type line": "Extra",
-    "race": "",
-    "archetype": ""
-  },
   "FB03-052": {
     "id": "FB03-052",
     "isToken": false,
@@ -9711,6 +9673,63 @@
     "type": "Character ",
     "cost": "1",
     "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "": {
+    "id": "",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "",
+        "type": false,
+        "cost": 0,
+        "image": "",
+        "isHorizontal": false
+      }
+    },
+    "name": "",
+    "type": false,
+    "cost": 0,
+    "Type line": "",
+    "race": "",
+    "archetype": ""
+  },
+  "FB01-126": {
+    "id": "FB01-126",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Burter",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB01-126.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Burter (FB01-126)",
+    "type": "Character ",
+    "cost": "2",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB03-051": {
+    "id": "FB03-051",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Great Saiyaman",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB03-051.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Great Saiyaman! (FB03-051)",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
     "race": "",
     "archetype": ""
   }
