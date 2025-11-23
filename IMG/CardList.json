@@ -12791,63 +12791,6 @@
     "race": "",
     "archetype": ""
   },
-  "SB02-056": {
-    "id": "SB02-065",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Mercenary Tao",
-        "type": "Character ",
-        "cost": "4",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-056.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "Mercenary Tao (SB02-056)",
-    "type": "Character ",
-    "cost": "4",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
-  "SB02-057": {
-    "id": "SB02-066",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Drum",
-        "type": "Character ",
-        "cost": "3",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-057.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "Drum (SB02-057)",
-    "type": "Character ",
-    "cost": "3",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
-  "SB02-058": {
-    "id": "SB02-067",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "King Piccolo",
-        "type": "Character ",
-        "cost": "3",
-        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-058.webp?v1",
-        "isHorizontal": false
-      }
-    },
-    "name": "King Piccolo (SB02-058)",
-    "type": "Character ",
-    "cost": "3",
-    "Type line": "Character",
-    "race": "",
-    "archetype": ""
-  },
   "SB02-059": {
     "id": "SB02-059",
     "isToken": false,
@@ -12882,6 +12825,63 @@
     "name": "Red Ribbon Robot (SB02-060)",
     "type": "Character ",
     "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "SB02-058": {
+    "id": "SB02-058",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "King Piccolo",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-058.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "King Piccolo (SB02-058)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "SB02-057": {
+    "id": "SB02-057",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Drum",
+        "type": "Character ",
+        "cost": "3",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-057.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Drum (SB02-057)",
+    "type": "Character ",
+    "cost": "3",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "SB02-056": {
+    "id": "SB02-056",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mercenary Tao",
+        "type": "Character ",
+        "cost": "4",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/SB02-056.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mercenary Tao (SB02-056)",
+    "type": "Character ",
+    "cost": "4",
     "Type line": "Character",
     "race": "",
     "archetype": ""
