@@ -9694,5 +9694,24 @@
     "Type line": "Extra",
     "race": "",
     "archetype": ""
+  },
+  "FB01-125": {
+    "id": "FB01-125",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nail",
+        "type": "Character ",
+        "cost": "7",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB01-125.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nail (FB01-125)",
+    "type": "Character ",
+    "cost": "7",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
   }
 }
