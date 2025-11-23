@@ -18,7 +18,8 @@
   },
   "deckBuilding": {
     "mainFilters": [
-      "Dragonball Fusion World"
+      "Dragonball Fusion World",
+      "Cost"
     ],
     "formats": [
       {
