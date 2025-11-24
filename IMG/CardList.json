@@ -9976,7 +9976,7 @@
         "name": "Son Goten / Trunks : Youth",
         "type": "Character ",
         "cost": "2",
-        "image": "https://i.ibb.co/chyNLQ9R/image.png",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB08-009_p1.webp?v1",
         "isHorizontal": false
       }
     },
@@ -10192,7 +10192,7 @@
         "name": "Kefla",
         "type": "Character ",
         "cost": "5",
-        "image": "https://i.ibb.co/1t8ZbjSn/image.png",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB08-034_p1.webp?v1",
         "isHorizontal": false
       }
     },
@@ -14086,6 +14086,63 @@
     "name": "Trunks : Future (FP-068)",
     "type": "Character ",
     "cost": "4",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-046": {
+    "id": "FB08-046",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Renso",
+        "type": "Character ",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB08-046.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Renso (FB08-046)",
+    "type": "Character ",
+    "cost": "1",
+    "Type line": "Character",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-047": {
+    "id": "FB08-047",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Champa Booing",
+        "type": "Extra",
+        "cost": "1",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB08-047.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Champa Booing (FB08-047)",
+    "type": "Extra",
+    "cost": "1",
+    "Type line": "Extra",
+    "race": "",
+    "archetype": ""
+  },
+  "FB08-020": {
+    "id": "FB08-020",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Piccolo",
+        "type": "Character ",
+        "cost": "2",
+        "image": "https://www.dbs-cardgame.com/fw/images/cards/card/en/FB08-020.webp?v1",
+        "isHorizontal": false
+      }
+    },
+    "name": "Piccolo (FB08-020)",
+    "type": "Character ",
+    "cost": "2",
     "Type line": "Character",
     "race": "",
     "archetype": ""
